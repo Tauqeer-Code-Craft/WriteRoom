@@ -1,6 +1,6 @@
 # Writeroom 
 
-Writerrom is a collaborative document editor built with **Next.js** that provides a **Google Docs**-like experience with real-time collaboration, authentication, and document management. It supports features such as live cursors, comments, rich text editing, and document organization, making it a perfect tool for teams and individuals alike.
+WriteRoom is a collaborative document editor built with **Next.js** that provides a **Google Docs**-like experience with real-time collaboration, authentication, and document management. It supports features such as live cursors, comments, rich text editing, and document organization, making it a perfect tool for teams and individuals alike.
 
 ## Features
 
@@ -172,3 +172,4 @@ convex/
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
+
